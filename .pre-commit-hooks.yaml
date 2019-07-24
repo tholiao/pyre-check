@@ -1,0 +1,6 @@
+-   id: pyre
+    name: pyre
+    description: '`Pyre` is a performant type checker for python.'
+    entry: pyre --source-directory . check
+    language: python
+    types: [python]
